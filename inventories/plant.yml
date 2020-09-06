@@ -342,35 +342,35 @@ Items:
     display: Oak log all-bark [17:12]
     category: Plant
     type: BLOCK
-    blockData: minecraft:oak_wood
+    blockData: minecraft:oak_wood[axis=x]
   spruce_bark:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 15
     display: Spruce log all-bark [17:13]
     category: Plant
     type: BLOCK
-    blockData: minecraft:spruce_wood
+    blockData: minecraft:spruce_wood[axis=x]
   birch_bark:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 16
     display: Birch log all-bark [17:14]
     category: Plant
     type: BLOCK
-    blockData: minecraft:birch_wood
+    blockData: minecraft:birch_wood[axis=x]
   jungle_bark:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 17
     display: Jungle log all-bark [17:15]
     category: Plant
     type: BLOCK
-    blockData: minecraft:jungle_wood
+    blockData: minecraft:jungle_wood[axis=x]
   acacia_bark:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 18
     display: Acacia log all-bark [162:12]
     category: Plant
     type: BLOCK
-    blockData: minecraft:acacia_wood
+    blockData: minecraft:acacia_wood[axis=x]
   grey_log:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 350
