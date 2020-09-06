@@ -89,6 +89,36 @@
         "y": 90,
         "x": 90
       }
+    },
+	{
+      "when": {
+        "facing": "up",
+        "triggered": "true"
+      },
+      "apply": {
+        "model": "block/dropper_powered_seu"
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "triggered": "true"
+      },
+      "apply": {
+        "model": "block/dropper_powered_seu",
+        "x": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "triggered": "true"
+      },
+      "apply": {
+        "model": "block/dropper_powered_seu",
+        "y": 90,
+        "x": 90
+      }
     }
   ]
 }

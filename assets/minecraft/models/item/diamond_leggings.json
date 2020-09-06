@@ -2530,6 +2530,13 @@
       },
       "name": 361,
       "model": "block/tall_grass"
+    },
+    {
+      "predicate": {
+        "damage": 0.72984
+      },
+      "name": 362,
+      "model": "block/dropper_powered_seu"
     }
   ]
 }

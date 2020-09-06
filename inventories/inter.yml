@@ -102,12 +102,15 @@ Items:
     category: Inter
     type: BLOCK
     blockData: minecraft:oak_slab[type=double,waterlogged=false]
-  prismarine_rough:
-    itemMaterial: PRISMARINE
-    dataValue: 0
-    display: Sturdy Crate [168:0]
+  dropper_powered_seu:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 
+    display: Sturdy crate
     category: Inter
-    type: VANILLA
+    type: THREE_AXIS
+    blockDataZ: minecraft:dropper[facing=south,triggered=true]
+    blockDataX: minecraft:dropper[facing=east,triggered=true]
+    blockDataY: minecraft:dropper[facing=up,triggered=true]
   double_slab_planks_birch:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 164
