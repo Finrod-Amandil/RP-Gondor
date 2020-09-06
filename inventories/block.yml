@@ -244,7 +244,13 @@ Items:
     blockData: minecraft:cactus[age=5]
   red_nether_brick:
     itemMaterial: RED_NETHER_BRICKS
-    display: red bricks [215:0]
+    display: Red bricks [215:0]
+    category: Block
+    type: VANILLA
+  red_nether_brick_stairs:
+    itemMaterial: RED_NETHER_BRICK_STAIRS
+    damage: 0
+    display: Red bricks stairs
     category: Block
     type: VANILLA
   double_slab_netherbrick_seamless:
