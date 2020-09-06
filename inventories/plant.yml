@@ -318,6 +318,12 @@ Items:
     display: Spruce log [17:1]
     category: Plant
     type: VANILLA
+  birch_log:
+    itemMaterial: BIRCH_LOG
+    damage: 0
+    display: Birch log
+    category: Plant
+    type: VANILLA
   jungle_log:
     itemMaterial: JUNGLE_LOG
     damage: 3
