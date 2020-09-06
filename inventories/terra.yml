@@ -467,6 +467,12 @@ Items:
     damage: 0
     display: Ice [174:0]
     category: Terra
+    type: VANILLA   
+  stone_stairs:
+    itemMaterial: STONE_STAIRS
+    damage: 0
+    display: Stone stairs
+    category: Terra
     type: VANILLA
   stone_slab:
     itemMaterial: STONE_SLAB
@@ -498,6 +504,12 @@ Items:
     category: Terra
     type: ITEM_BLOCK
     blockData: minecraft:iron_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]
+  polished_granite_stairs:
+    itemMaterial: POLISHED_GRANITE_STAIRS
+    damage: 0
+    display: Smooth red stone stairs
+    category: Terra
+    type: VANILLA
   powered_repeater_delay4_w:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 211
@@ -506,6 +518,12 @@ Items:
     type: BISECTED
     blockDataDown: minecraft:repeater[delay=4,facing=west,locked=false,powered=true]
     blockDataUp: minecraft:polished_granite_slab[type=top,waterlogged=false]
+  diorite_stairs:
+    itemMaterial: DIORITE_STAIRS
+    damage: 0
+    display: Rough light stone stairs
+    category: Terra
+    type: VANILLA
   powered_repeater_delay4_n:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 212
@@ -531,6 +549,12 @@ Items:
     category: Terra
     type: ITEM_BLOCK
     blockData: minecraft:iron_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]
+  polished_diorite_stairs:
+    itemMaterial: POLISHED_DIORITE_STAIRS
+    damage: 0
+    display: Smooth light stone stairs
+    category: Terra
+    type: VANILLA
   comparator_compare_s:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 214
@@ -539,14 +563,26 @@ Items:
     type: BISECTED
     blockDataDown: minecraft:comparator[facing=south,mode=compare,powered=false]
     blockDataUp: minecraft:polished_diorite_slab[type=top,waterlogged=false]
+  andesite_stairs:
+    itemMaterial: ANDESITE_STAIRS
+    damage: 0
+    display: Rough dark stone stairs
+    category: Terra
+    type: VANILLA
   comparator_compare_w:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 215
-    display: Rough dark stone 2 slab
+    display: Rough dark stone slab
     category: Terra
     type: BISECTED
     blockDataDown: minecraft:comparator[facing=west,mode=compare,powered=false]
     blockDataUp: minecraft:andesite_slab[type=top,waterlogged=false]
+  polished_andesite_stairs:
+    itemMaterial: POLISHED_ANDESITE_STAIRS
+    damage: 0
+    display: Smooth dark stone stairs
+    category: Terra
+    type: VANILLA
   comparator_compare_n:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 216
