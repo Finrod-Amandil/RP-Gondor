@@ -60,6 +60,16 @@ Items:
     display: Shutter [197:8]
     category: Exter
     type: THIN_WALL
+  shutter_single_block:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 363
+    display: Shutter (one block tall)
+    category: Exter
+    type: FOUR_DIRECTIONS
+    blockDataSouth: minecraft:dark_oak_door[facing=north,half=lower,hinge=left,open=true,powered=false]
+    blockDataWest: minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=true,powered=false]
+    blockDataNorth: minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=true,powered=false]
+    blockDataEast: minecraft:dark_oak_door[facing=west,half=lower,hinge=left,open=true,powered=false]
   cactus_stage2:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 149
