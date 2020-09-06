@@ -73,6 +73,12 @@ Items:
     display: Mossy cobblestone wall [139:1]
     category: Fence
     type: VANILLA
+  red_nether_brick_wall:
+    itemMaterial: RED_NETHER_BRICK_WALL
+    damage: 0
+    display: Red bricks wall
+    category: Fence
+    type: VANILLA
   iron_fence:
     itemMaterial: IRON_BARS
     damage: 0
