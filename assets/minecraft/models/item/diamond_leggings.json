@@ -2523,6 +2523,13 @@
       },
       "name": 360,
       "model": "item/stationary_lava_height14"
+    },
+	{
+      "predicate": {
+        "damage": 0.72782
+      },
+      "name": 361,
+      "model": "block/tall_grass"
     }
   ]
 }

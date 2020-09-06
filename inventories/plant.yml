@@ -213,17 +213,12 @@ Items:
     type: BLOCK
     blockData: minecraft:dead_bush
   double_grass_bottom:
-    lowerMaterial: TALL_GRASS
-    upperMaterial: TALL_GRASS
-    lowerDataValue: 2
-    upperDataValue: 10
-    itemMaterial: TALL_GRASS
-    damage: 2
-    display: Double tall grass [175:2]
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 361
+    display: Double tall grass
     category: Plant
-    type: DOUBLE_Y_BLOCK
-    blockDataLower: minecraft:tall_grass[half=lower]
-    blockDataUpper: minecraft:tall_grass[half=upper]
+    type: BLOCK
+    blockData: minecraft:tall_grass[half=lower]
   double_syringa_top:
     lowerMaterial: LILAC
     upperMaterial: LILAC
