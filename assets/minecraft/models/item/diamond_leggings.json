@@ -2544,6 +2544,13 @@
       },
       "name": 363,
       "model": "block/dark_oak_door_bottom_rh_open"
+    },
+    {
+      "predicate": {
+        "damage": 0.73387
+      },
+      "name": 364,
+      "model": "block/reeds_stage1"
     }
   ]
 }

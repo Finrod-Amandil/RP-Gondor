@@ -211,6 +211,13 @@ Items:
     category: Crop
     type: BLOCK
     blockData: minecraft:nether_wart[age=1]
+  tomatoes:
+    itemMaterial: DIAMOND_LEGGINGS
+    damage: 364
+    display: Tomatoes
+    category: Crop
+    type: BLOCK
+    blockData: minecraft:sugar_cane[age=1]
   pumpkin:
     itemMaterial: PUMPKIN
     damage: 0
